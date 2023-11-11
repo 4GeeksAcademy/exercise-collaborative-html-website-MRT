@@ -5,13 +5,14 @@ body{
 #imagen1 {
     border-radius: 50px;
     width:250px;
-    margin:20px;
-    height: 250px; 
+    height: 250px;
+    
+    
 }
 
 #imagen2 {
     border-radius: 50px;
     width:250px;
-    margin:20px;
-    height: 250px; 
+    height: 250px;
 }
+
